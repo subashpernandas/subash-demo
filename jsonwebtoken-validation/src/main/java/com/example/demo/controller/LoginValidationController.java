@@ -20,6 +20,7 @@ import com.example.demo.entity.JwtResponse;
 import com.example.demo.entity.LoginStatus;
 import com.example.demo.util.JwtUtil;
 
+//Author : SUBASH BERDINANT
 @RestController
 @CrossOrigin
 public class LoginValidationController {
